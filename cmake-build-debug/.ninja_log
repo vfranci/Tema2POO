@@ -1,0 +1,18 @@
+# ninja log v5
+38	648	6928915268822465	CMakeFiles/Tema2OOP.dir/OutOfBoundsException.cpp.obj	3cc7cfbf81fc23f6
+3	495	6928921190901245	CMakeFiles/Tema2OOP.dir/main.cpp.obj	db79d0b582178a7c
+19	693	6928915269141607	CMakeFiles/Tema2OOP.dir/Movie.cpp.obj	5a1d04112ddeb10c
+3	453	6928932508103558	CMakeFiles/Tema2OOP.dir/Series.cpp.obj	822cbf35d17e6cf2
+11	841	6928915270778734	CMakeFiles/Tema2OOP.dir/Entertainment.cpp.obj	d1530cd4a9d359db
+668	849	6928934396927967	Tema2OOP.exe	de5246e67d096689
+5	667	6928934395182745	CMakeFiles/Tema2OOP.dir/Menu.cpp.obj	f2bb5e673d4e0f3a
+3	423	6928944990304701	CMakeFiles/Tema2OOP.dir/InvalidInputException.cpp.obj	9e7917707069706a
+15	534	6928944991421807	CMakeFiles/Tema2OOP.dir/Movie.cpp.obj	5a1d04112ddeb10c
+17	700	6928944993074429	CMakeFiles/Tema2OOP.dir/Menu.cpp.obj	f2bb5e673d4e0f3a
+701	987	6928944995877156	Tema2OOP.exe	419deb16e20ea7a7
+4	604	6928945615452971	CMakeFiles/Tema2OOP.dir/Menu.cpp.obj	f2bb5e673d4e0f3a
+604	798	6928945617332117	Tema2OOP.exe	419deb16e20ea7a7
+4	608	6928946310300926	CMakeFiles/Tema2OOP.dir/Menu.cpp.obj	f2bb5e673d4e0f3a
+608	796	6928946312105781	Tema2OOP.exe	419deb16e20ea7a7
+9	535	6928961335857074	CMakeFiles/Tema2OOP.dir/Movie.cpp.obj	5a1d04112ddeb10c
+4	654	6928961337059248	CMakeFiles/Tema2OOP.dir/main.cpp.obj	db79d0b582178a7c
